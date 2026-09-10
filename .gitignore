@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.dev/
+shots/*
+!shots/.gitkeep
+.DS_Store
